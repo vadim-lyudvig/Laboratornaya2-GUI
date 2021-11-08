@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgSeNt/pnFer9LCUpA0I9e51tqDGqQC1Y8ep7ibKuJz1QRUJgsXMUhsIioa1cMG1ifb9rng4IXCj2/0K8fHm6A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Администратор\\Desktop\\Ирниту\\Английский язык\\Допы\\Labaratornaya.GUI\\Labaratornaya.GUITests1\\Labaratornaya.GUITests1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект Labaratornaya.GUI несовместим с net5.0 (.NETCoreApp,Version=v5.0). Проект Labaratornaya.GUI поддерживает: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Labaratornaya.GUI",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

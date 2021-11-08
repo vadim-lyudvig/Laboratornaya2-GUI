@@ -1,0 +1,327 @@
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\CoverletSourceRootsMapping
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\testhost.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\testhost.exe
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.deps.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.runtimeconfig.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\NuGet.Frameworks.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CopyComplete
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.genruntimeconfig.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\CoverletSourceRootsMapping
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfo.cs
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\CoverletSourceRootsMapping
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\testhost.exe
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\testhost.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.deps.json
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.runtimeconfig.json
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.runtimeconfig.dev.json
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\NuGet.Frameworks.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfo.cs
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CopyComplete
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+C:\Users\vadim\Desktop\GUI\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.genruntimeconfig.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\CoverletSourceRootsMapping
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\testhost.exe
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\testhost.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.AdapterUtilities.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.deps.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.runtimeconfig.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.runtimeconfig.dev.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.TestPlatform.Utilities.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\NuGet.Frameworks.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.AssemblyReference.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.GeneratedMSBuildEditorConfig.editorconfig
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfoInputs.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.AssemblyInfo.cs
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CoreCompileInputs.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.csproj.CopyComplete
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\ref\Labaratornaya.GUITests4.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.pdb
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUITests4\obj\Debug\net5.0-windows\Labaratornaya.GUITests4.genruntimeconfig.cache

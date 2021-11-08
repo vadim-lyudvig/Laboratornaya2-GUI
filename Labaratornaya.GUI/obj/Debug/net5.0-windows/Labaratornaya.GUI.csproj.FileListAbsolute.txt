@@ -1,0 +1,119 @@
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csprojAssemblyReference.cache
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form1.resources
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfo.cs
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.genruntimeconfig.cache
+C:\Users\vadim\Desktop\C#\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form2.resources
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form1.resources
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form2.resources
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Ирниту\Английский язык\Допы\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form3.resources
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.AssemblyReference.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form1.resources
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form2.resources
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form3.resources
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.GenerateResource.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfoInputs.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfo.cs
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.CoreCompileInputs.cache
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+C:\Users\vadim\Desktop\Новая папка\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.genruntimeconfig.cache
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.AssemblyReference.cache
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form1.resources
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form2.resources
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form3.resources
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.GenerateResource.cache
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.GeneratedMSBuildEditorConfig.editorconfig
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfoInputs.cache
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfo.cs
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.CoreCompileInputs.cache
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.dll
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+J:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.genruntimeconfig.cache
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.AssemblyReference.cache
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form1.resources
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form2.resources
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form3.resources
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.GenerateResource.cache
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfoInputs.cache
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfo.cs
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.CoreCompileInputs.cache
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.dll
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+E:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.genruntimeconfig.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.exe
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.deps.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.runtimeconfig.dev.json
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\bin\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.AssemblyReference.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form1.resources
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form2.resources
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.Form3.resources
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.GenerateResource.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfoInputs.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.AssemblyInfo.cs
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.csproj.CoreCompileInputs.cache
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\ref\Labaratornaya.GUI.dll
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.pdb
+F:\ИРНИТУ\ТП\Labaratornaya.GUI\Labaratornaya.GUI\obj\Debug\net5.0-windows\Labaratornaya.GUI.genruntimeconfig.cache
